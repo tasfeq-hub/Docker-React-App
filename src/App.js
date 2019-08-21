@@ -1,22 +1,18 @@
 import React from 'react';
 import logo from './logo.svg';
+import bintuVai from './bintuvai.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={bintuVai} className="" alt="logo" style={{width:"800px", height:"600px"}}/>
         <p>
-          Hello World! This is run via Docker Compose
+          !! Ich bin die grosten Racist im Deutschland. Ich Will immer Weiss Mussy Essen !!
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+        <a>
+          <h6>In loving memory of Melissa Benoist</h6>
         </a>
       </header>
     </div>
