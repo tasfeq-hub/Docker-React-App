@@ -12,7 +12,7 @@ function App() {
           !! Ich bin die grosten Racist im Deutschland. Ich Will immer Weiss Mussy Essen !!
         </p>
         <a>
-          <h6>In loving memory of Melissa Benoist</h6>
+          <h6>In loving memory of Melissa Benoist! </h6>
         </a>
       </header>
     </div>
